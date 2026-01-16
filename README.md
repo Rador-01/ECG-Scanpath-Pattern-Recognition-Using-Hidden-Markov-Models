@@ -206,4 +206,4 @@ The high classification accuracy should be interpreted with caution. This perfor
 ## License
 
 This project is developed for educational purposes as part of the Computational Theory course at UM6P.
-# ECG-Scanpath-Pattern-Recognition-Using-Hidden-Markov-Models
+
